@@ -1,0 +1,5 @@
+logpipe
+*.ckpt
+*.ckpt.tmp
+data/*
+!data/.gitkeep
